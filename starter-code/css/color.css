@@ -1,0 +1,42 @@
+:root {
+    --cor-0: #666CA3;
+    --cor-1: #13183F;
+    --cor-2: #83869A;
+    --cor-3: #F74780;
+    --cor-4: #FFA7C3;
+    --cor-5: #FFFFFF;
+    --cor-6: linear-gradient(180deg, #FF6F48 0.04%, #F02AA6 100%);
+    --cor-7: linear-gradient(180deg, #4851FF 0%, #F02AA6 99.92%);
+}
+
+.cor-0 {
+    color: var(--cor-0);
+}
+
+.cor-1 {
+    color: var(--cor-1);
+}
+
+.cor-2 {
+    color: var(--cor-2);
+}
+
+.cor-3 {
+    color: var(--cor-3);
+}
+
+.cor-4 {
+    color: var(--cor-4);
+}
+
+.cor-5 {
+    color: var(--cor-5);
+}
+
+.cor-6 {
+    color: var(--cor-6);
+}
+
+.cor-7 {
+    color: var(--cor-7);
+}

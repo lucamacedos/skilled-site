@@ -1,0 +1,39 @@
+.button-1-idle {
+    display: inline-block;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1.12rem;
+    line-height: 1.5;
+    color: var(--cor-5);
+    background-color: var(--cor-1);
+    padding: 14px 32px;
+    border-radius: 28px;
+}
+
+.button-1-idle:hover {
+    background-color: var(--cor-0);
+}
+
+.button-2-idle {
+    display: inline-block;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 700;
+    font-size: 1.12rem;
+    line-height: 1.5;
+    color: var(--cor-5);
+    background: var(--cor-6);
+    padding: 16px 32px;
+    border-radius: 31px;
+}
+
+.button-2-idle:hover {
+    background: var(--cor-4);
+}
+
+@media (max-width: 700px) {
+    .button-1-idle {
+        font-size: 1rem;
+        line-height: 1.75;
+        padding: 10px 24px;
+    }
+}

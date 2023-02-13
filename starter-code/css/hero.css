@@ -1,0 +1,25 @@
+.hero-info {
+    flex: 1;
+    padding-top: 160px;
+    padding-bottom: 160px;
+}
+
+.hero-img {
+    flex: 1;
+    position: relative;
+}
+
+.hero-img img {
+    position: absolute;
+    top: -596px;
+    right: -472px;
+    overflow: hidden;
+}
+
+.hero-info h1 {
+    margin-bottom: 30px;
+}
+
+.hero-info p {
+    margin-bottom: 40px;
+}

@@ -1,0 +1,17 @@
+/* CSS UTILITY */
+@import url("./global.css");
+@import url("./color.css");
+@import url("./tipografia.css");
+@import url("./buttons.css");
+
+/* HEADER */
+@import url("./header.css");
+
+/* HERO */
+@import url("./hero.css");
+
+/* INFO-CARDS */
+@import url("./info-cards.css");
+
+/* FOOTER */
+@import url("./footer.css");
